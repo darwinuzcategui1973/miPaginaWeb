@@ -193,7 +193,8 @@ span {
     display: inline-block;
 }
 
-* SECCION POR QUE TRABAJAR CONMIGO */ .contenedor-trabajar {
+* SECCION POR QUE TRABAJAR CONMIGO */
+.contenedor-trabajar {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
