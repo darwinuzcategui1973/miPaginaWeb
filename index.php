@@ -4,12 +4,12 @@
 <head>
     <meta charset="utf-8">
     <title>Pagina web Darwin Uzcategui</title>
-    <link rel="stylesheet" href="./estilo/estilo.css">
+    <link rel="stylesheet" href="/estilo/estilo.css">
     <!-- El link externo de mi fuente -->
     <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
     <!-- para colocar carulese -->
-    <link rel="stylesheet" href="./owl/owl.carousel.min.css">
-    <link rel="stylesheet" href="./owl/owl.theme.default.min.css">
+    <link rel="stylesheet" href="owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="owl/owl.theme.default.min.css">
     <meta name="viewport" content="width=device-width, user-scalable=no">
 </head>
 
@@ -21,7 +21,7 @@
             <div class="contenedor">
                 <p class="logo">DARWIN UZCATEGUI</p>
 
-                <img class="menu-icon" src="./imagenes/menu.png" alt="">
+                <img class="menu-icon" src="imagenes/menu.png" alt="">
                 <nav>
                     <ul class="lista-menu">
                         <li><a href="#acerca">Acerca de mi..</a></li>
@@ -56,7 +56,7 @@
                 <h3>Acerca de mi</h3>
                 <div class="contenedor-acerca">
                     <div class="computadora">
-                        <img src="./imagenes/curso.jpg">
+                        <img src="imagenes/curso.jpg">
                     </div>
                     <div class="texto">
                         <p>Mi nombre es Darwin Felipe Uzcategui Gonzalez y soy programados de sistemas de escritorio. Tengo la experiencia en desarrollo de sistemas de facturacion fiscal para pequeñas y medianas empresas, hasta sistemas Administrativo.
@@ -83,44 +83,44 @@
                             <h4>Diseño Web</h4>
                             <p>Páginas web atractivas y funcionales con el objetivo de satisfacer todas tus expectativas. La importancia del diseño es fundamental para tener éxito y atraer a tus visitantes. También lo es la velocidad de carga del sitio web,
                                 deben ser rápidos para que el visitante tenga la mejor experiencia</p>
-                            <img class="icono" src="./imagenes/1.png">
-                            <img class="ondas" src="./imagenes/waves.png">
+                            <img class="icono" src="imagenes/1.png">
+                            <img class="ondas" src="imagenes/waves.png">
                         </div>
                         <div class="servicio celeste">
                             <h4>Responsive Design</h4>
                             <p>Hoy en día las páginas web se ven en multitud de dispositivos como tablets, celulares, libros electrónicos, notebooks, PCs, etc. La tecnología móvil es el presente y el futuro. Para eso es importante y me aseguro de que tu
                                 sitio web sea compatible con todos los tamaños de pantalla de esta época moderna</p>
-                            <img class="icono" src="./imagenes/9.png">
-                            <img class="ondas" src="./imagenes/waves.png">
+                            <img class="icono" src="imagenes/9.png">
+                            <img class="ondas" src="imagenes/waves.png">
                         </div>
                         <div class="servicio naranja">
                             <h4>SEO</h4>
                             <p>Al crear sitios web, tengo muy en cuenta la optimización de motores de búsqueda (SEO). Llevo a cabo prácticas de SEO estándar en cada página del sitio web, lo que permite que tu sitio tenga una clasificación más alta en los
                                 resultados de Google y asi generar mas tráfico a la web</p>
-                            <img class="icono" src="./imagenes/10.png">
-                            <img class="ondas" src="./imagenes/waves.png">
+                            <img class="icono" src="imagenes/10.png">
+                            <img class="ondas" src="imagenes/waves.png">
                         </div>
                         <div class="servicio celeste">
                             <h4>Autoadministrable</h4>
                             <p>Es importante que puedas administrar tu página web vos mismo, desde cualquier lugar y en cualquier momento. Desarrollo sistemas de gestión de contenido que te permiten ver los datos de tu página web y editar el contenido que
                                 quieras, lo que te permite mantenerte actualizado
                             </p>
-                            <img class="icono" src="./imagenes/4.png">
-                            <img class="ondas" src="./imagenes/waves.png">
+                            <img class="icono" src="imagenes/4.png">
+                            <img class="ondas" src="imagenes/waves.png">
                         </div>
                         <div class="servicio naranja">
                             <h4>Mantenimiento</h4>
                             <p>Podés contactarme si necesitas actualizar tu página web, agregar nuevas secciones o cualquier cambio que necesites. Esto es perfecto para los sitios web de pequeñas empresas, donde no se necesita un diseñador de páginas web
                                 a tiempo completo, sino solo en distintas ocasiones</p>
-                            <img class="icono" src="./imagenes/5.png">
-                            <img class="ondas" src="./imagenes/waves.png">
+                            <img class="icono" src="imagenes/5.png">
+                            <img class="ondas" src="imagenes/waves.png">
                         </div>
                         <div class="servicio celeste">
                             <h4>Marketing Digital</h4>
                             <p>Utilizo las herramientas mas importantes como Google Adwords y Google Analytics, para que tu negocio aparezca en los resultados de búsqueda de Google justo cuando alguien te necesita y analizar como los usuarios interactúan
                                 con tu página web</p>
-                            <img class="icono" src="./imagenes/6.png">
-                            <img class="ondas" src="./imagenes/waves.png">
+                            <img class="icono" src="imagenes/6.png">
+                            <img class="ondas" src="imagenes/waves.png">
                         </div>
                     </div>
                 </div>
@@ -132,31 +132,31 @@
 
                             <div class="item">
                                 <a target="_blank" href="https://drive.google.com/file/d/0B7OlNZqShyA_LXlJUnFGdjVvTHc/view">
-                                    <img src="./imagenes/gmdpto.png">
+                                    <img src="imagenes/gmdpto.png">
                                     <p>sistemas de facturacion Fiscal</p>
                                 </a>
                             </div>
                             <div class="item">
                                 <a target="_blank" href="https://www.youtube.com/channel/UCxEuhaaMVJ6mQ1KDEvxp-IA?view_as=subscriber">
-                                    <img src="./imagenes/curso3.png">
+                                    <img src="imagenes/curso3.png">
                                     <p>Curso de progrmacion para niños y chamos</p>
                                 </a>
                             </div>
                             <div class="item">
                                 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.gmdsistema.darwinuzcategui.hilospersitenciadatossonidos&hl=es_VE">
-                                    <img src="./imagenes/pelotaGmd.png">
+                                    <img src="imagenes/pelotaGmd.png">
                                     <p>Juego Pelota Playera GMD</p>
                                 </a>
                             </div>
                             <div class="item">
                                 <a target="_blank" href="https://darwinuzcategui.github.io/portafolioGmd/#/inicio">
-                                    <img src="./imagenes/portafolio.png">
+                                    <img src="imagenes/portafolio.png">
                                     <p>Diseño de Pagina Web Catalogo Prouctos</p>
                                 </a>
                             </div>
                             <div class="item">
                                 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.gmdsistema.darwinuzcategui.hilospersitenciadatossonidos&hl=es_VE">
-                                    <img src="./imagenes/factura.png">
+                                    <img src="imagenes/factura.png">
                                     <p>Sistema de Facturacón</p>
                                 </a>
                             </div>
@@ -169,21 +169,21 @@
                         <div class="contenedor-trabajar">
                             <div class="item">
                                 <ul>
-                                    <li><img src="./imagenes/velocidad.png" alt=""></li>
+                                    <li><img src="imagenes/velocidad.png" alt=""></li>
                                     <li>Velocidad</li>
                                     <li>Me aseguro de que tu web cargue entre 2 y 4 segundos (depende de la cantidad de contenido del sitio). Si una web tarda más de 5 segundos en cargar, el 70% de los usuarios lo cierra y no vuelve a entrar más</li>
                                 </ul>
                             </div>
                             <div class="item">
                                 <ul>
-                                    <li><img src="./imagenes/mantenimiento.png" alt=""></li>
+                                    <li><img src="imagenes/mantenimiento.png" alt=""></li>
                                     <li>Mantenimiento</li>
                                     <li>Mantengo una comunicación constante con mi cliente, para enseñarle a modificar contenido mediante el panel de Wordpress o para cualquier duda/cambio que quiera hacer en su sitio web</li>
                                 </ul>
                             </div>
                             <div class="item">
                                 <ul>
-                                    <li><img src="./imagenes/mobile2.png" alt=""></li>
+                                    <li><img src="imagenes/mobile2.png" alt=""></li>
                                     <li>Mobile Priority</li>
                                     <li>Cada vez mas personas navegan desde sus celulares en cualquier parte del mundo. Me aseguro de que tu web esté optimizada para cualquier tipo de dispositivo móvil
                                     </li>
@@ -198,7 +198,7 @@
                         <h3>Blog</h3>
                         <div class="contenedor-publicaciones">
                             <div class="publicacion">
-                                <img src="./imagenes/blog1.jpg" alt="">
+                                <img src="imagenes/blog1.jpg" alt="">
                                 <div class="contenido">
                                     <h4>No alcanza con tener solamente una página web</h4>
                                     <p>¿Querés aprender cuales son las herramientas que usan las mejores marcas para generar tráfico?</p>
@@ -206,7 +206,7 @@
                                 </div>
                             </div>
                             <div class="publicacion">
-                                <img src="./imagenes/blog2.jpg" alt="">
+                                <img src="imagenes/blog2.jpg" alt="">
                                 <div class="contenido">
                                     <h4>¿Qué es el remarketing y como utilizarlo?</h4>
                                     <p>El remarketing es una de las técnicas mas utlizadas por las mejores companías! ¿Querés saber de que se trata?</p>
@@ -245,9 +245,9 @@
 
 
                                 <div class="contacto-info">
-                                    <div class="mail"><img src="./imagenes/email-11-48.png" alt="">darwin.uzcategui1973@gmail.com
+                                    <div class="mail"><img src="imagenes/email-11-48.png" alt="">darwin.uzcategui1973@gmail.com
                                     </div>
-                                    <div class="whatsapp"><img src="./imagenes/whatsapp-48.png" alt="">+584149213235</div>
+                                    <div class="whatsapp"><img src="imagenes/whatsapp-48.png" alt="">+584149213235</div>
                                 </div>
 
 
@@ -259,12 +259,12 @@
     <footer>
         <div class="contenedor">
             <div class="redes">
-                <a target="_blank" href="https://www.facebook.com/pg/Pelota-De-Playa-multiidiomas-1519164658133365/posts/"><img src="./imagenes/facebook32.png" alt="imagen de facebook"></a>
-                <a target="_blank" href="https://twitter.com/darwinuzcategui"><img src="./imagenes/twitter.png" alt="imagen de twitter"></a>
-                <a target="_blank" href="https://www.instagram.com/darwin.uzcategui1973/?hl=es"><img src="./imagenes/instagram64.png" alt="imagen de instagram"></a>
-                <a target="_blank" href="https://www.youtube.com/channel/UCxEuhaaMVJ6mQ1KDEvxp-IA"><img src="./imagenes/youtube61.png" alt="imagen de youtube"></a>
-                <a target="_blank" href="https://github.com/darwinuzcategui"><img src="./imagenes/github64.png" alt="imagen de github"></a>
-                <a target="_blank" href="https://ve.linkedin.com/in/darwin-felipe-uzc%C3%A1tegui-gonz%C3%A1lez-08a46310a"><img src="./imagenes/linkedin64.png" alt="imagen de linkedin"></a>
+                <a target="_blank" href="https://www.facebook.com/pg/Pelota-De-Playa-multiidiomas-1519164658133365/posts/"><img src="imagenes/facebook32.png" alt="imagen de facebook"></a>
+                <a target="_blank" href="https://twitter.com/darwinuzcategui"><img src="imagenes/twitter.png" alt="imagen de twitter"></a>
+                <a target="_blank" href="https://www.instagram.com/darwin.uzcategui1973/?hl=es"><img src="imagenes/instagram64.png" alt="imagen de instagram"></a>
+                <a target="_blank" href="https://www.youtube.com/channel/UCxEuhaaMVJ6mQ1KDEvxp-IA"><img src="imagenes/youtube61.png" alt="imagen de youtube"></a>
+                <a target="_blank" href="https://github.com/darwinuzcategui"><img src="imagenes/github64.png" alt="imagen de github"></a>
+                <a target="_blank" href="https://ve.linkedin.com/in/darwin-felipe-uzc%C3%A1tegui-gonz%C3%A1lez-08a46310a"><img src="imagenes/linkedin64.png" alt="imagen de linkedin"></a>
             </div>
             <div class="parrafo">
                 <p>© 2019 Darwin Uzcategui | Programador de Sistemas Fiscales. Todos los derechos reservados</p>
@@ -275,7 +275,7 @@
 
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-    <script src="./owl/owl.carousel.min.js"></script>
+    <script src="owl/owl.carousel.min.js"></script>
     <script>
         $('.owl-carousel').owlCarousel({
             loop: true,
