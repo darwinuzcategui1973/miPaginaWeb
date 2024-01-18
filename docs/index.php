@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Pagina web Darwin Uzcategui</title>
+    <title>Pagina web Darwin Felipe Uzcategui</title>
     <link rel="stylesheet" href="estilo/estilo.css">
     <!-- El link externo de mi fuente -->
     <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="owl/owl.carousel.min.css">
     <link rel="stylesheet" href="owl/owl.theme.default.min.css">
     <meta name="viewport" content="width=device-width, user-scalable=no">
+    <!--mi estiqueta para que es mi pagina  ESTA DOCS-->
+    <meta name="google-site-verification" content="jAFLY0kyGdoOUhdPaCNMPzMbDRwUIzqJ0sLby0N-dSo" />
 </head>
 
 <body>
@@ -40,7 +42,7 @@
 
 
             <div class="contenedor-titulo">
-                <h1>Darwin Felipe Uzcategui Gonzalez</h1>
+                <h1>Darwin Felipe Uzcátegui González</h1>
                 <h2>Programador & Desarrollador Movil</h2>
                 <a href="#mis-trabajos">VER MI TRABAJO</a>
 
@@ -59,14 +61,10 @@
                         <img src="imagenes/curso.jpg">
                     </div>
                     <div class="texto">
-                        <p>Mi nombre es Darwin Felipe Uzcategui Gonzalez y soy programados de sistemas de escritorio. Tengo la experiencia en desarrollo de sistemas de facturacion fiscal para pequeñas y medianas empresas, hasta sistemas Administrativo.
-                        </p>
-                        <p>Me aseguro de utilizar siempre las últimas tecnologías de desarrollo aplicaciones Escritorio, mobil y web. Si necesitás un sistemas de facturacion fiscal, administrativo o una página web moderna, funcional, que se adapte a todos
-                            los diferentes tipos de pantalla, te aseguro que llegaste al lugar correcto.
-                        </p>
-                        <p>Pudes ponerte en contacto conmigo a través de Facebook, Linkedin, Instragram, por mi telefono 0414 921 3235 o completando el formulario de contacto que se encuentra al final de mi sitio web.
-                        </p>
-                        <a href="">VER MI TRABAJO</a>
+                        <p>Mi nombre es <strong>Darwin Felipe Uzcátegui González</strong> y soy un programador especializado en sistemas de escritorio. Poseo experiencia destacada en el desarrollo de sistemas de facturación fiscal diseñados específicamente para satisfacer las necesidades de pequeñas y medianas empresas, así como en el desarrollo de sistemas administrativos. <strong>Mi enfoque se centra en ofrecer soluciones tecnológicas eficientes y personalizadas para optimizar los procesos empresariales</strong> .</p>
+                        <p>Garantizo la implementación constante de las tecnologías de desarrollo más avanzadas para crear aplicaciones de escritorio, móviles y web. Si estás en busca de un sistema de facturación fiscal, administrativo o una página web moderna y funcional, adaptada a todos los dispositivos y pantallas, <strong>has llegado al lugar indicado</strong> . Mi enfoque se centra en proporcionar soluciones tecnológicas vanguardistas que satisfacen tus necesidades específicas.</p>
+                        <p>Para establecer contacto, te ofrezco diversas opciones: puedes encontrarme en <strong> Twitter, Linkedin e Instagram</strong> ,  llamarme al número <strong>+58 0414 921 3235 </strong> , o simplemente completar el formulario de contacto ubicado al final de mi sitio web. Además, <strong> también puedes contactarme a través de WhatsApp</strong> . Estoy aquí para responder a tus preguntas y atender tus necesidades.</p>
+                        <a href="https://astounding-dusk-ca43e7.netlify.app/">VER MI PORTAFOLIO</a>
 
 
                     </div>
@@ -200,9 +198,9 @@
                             <div class="publicacion">
                                 <img src="imagenes/blog1.jpg" alt="">
                                 <div class="contenido">
-                                    <h4>No alcanza con tener solamente una página web</h4>
-                                    <p>¿Querés aprender cuales son las herramientas que usan las mejores marcas para generar tráfico?</p>
-                                    <a href="">Leer mas ➝</a>
+                                    <h4>¿Qué es GPT y cómo funciona?</h4>
+                                    <p>ChatGPT es una aplicación de chatbot de inteligencia artificial desarrollado en 2022 por OpenAI que se especializa en el diálogo. El chatbot es un modelo de lenguaje ajustado con técnicas de aprendizaje tanto supervisadas como de refuerzo.​ </p>
+                                    <a href="https://chat.openai.com/">Leer mas ➝</a>
                                 </div>
                             </div>
                             <div class="publicacion">
@@ -210,7 +208,7 @@
                                 <div class="contenido">
                                     <h4>¿Qué es el remarketing y como utilizarlo?</h4>
                                     <p>El remarketing es una de las técnicas mas utlizadas por las mejores companías! ¿Querés saber de que se trata?</p>
-                                    <a href="">Leer mas ➝</a>
+                                    <a href="https://advertising.amazon.com/es-mx/library/guides/remarketing#:~:text=El%20remarketing%20se%20refiere%20a,pueda%20interesar%2C%20como%20la%20conversi%C3%B3n.">Leer mas ➝</a>
                                 </div>
                             </div>
                         </div>
@@ -261,13 +259,13 @@
             <div class="redes">
                 <a target="_blank" href="https://www.facebook.com/pg/Pelota-De-Playa-multiidiomas-1519164658133365/posts/"><img src="imagenes/facebook32.png" alt="imagen de facebook"></a>
                 <a target="_blank" href="https://twitter.com/darwinuzcategui"><img src="imagenes/twitter.png" alt="imagen de twitter"></a>
-                <a target="_blank" href="https://www.instagram.com/darwin.uzcategui1973/?hl=es"><img src="imagenes/instagram64.png" alt="imagen de instagram"></a>
+                <a target="_blank" href="https://www.instagram.com/darwinuzcategui_programador/?hl=es"><img src="imagenes/instagram64.png" alt="imagen de instagram"></a>
                 <a target="_blank" href="https://www.youtube.com/channel/UCxEuhaaMVJ6mQ1KDEvxp-IA"><img src="imagenes/youtube61.png" alt="imagen de youtube"></a>
                 <a target="_blank" href="https://github.com/darwinuzcategui"><img src="imagenes/github64.png" alt="imagen de github"></a>
                 <a target="_blank" href="https://ve.linkedin.com/in/darwin-felipe-uzc%C3%A1tegui-gonz%C3%A1lez-08a46310a"><img src="imagenes/linkedin64.png" alt="imagen de linkedin"></a>
             </div>
             <div class="parrafo">
-                <p>© 2019 Darwin Uzcategui | Programador de Sistemas Fiscales. Todos los derechos reservados</p>
+                <p>© 2019 Darwin Felipe Uzcátegui González | Programador de Sistemas Fiscales. Todos los derechos reservados</p>
             </div>
         </div>
     </footer>
