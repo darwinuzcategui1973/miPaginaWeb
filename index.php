@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Pagina web Darwin Uzcategui</title>
+    <title>Pagina web Darwin Felipe Uzcategui</title>
     <link rel="stylesheet" href="/estilo/estilo.css">
     <!-- El link externo de mi fuente -->
     <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="owl/owl.carousel.min.css">
     <link rel="stylesheet" href="owl/owl.theme.default.min.css">
     <meta name="viewport" content="width=device-width, user-scalable=no">
+    <!--mi estiqueta para que es mi pagina -->
     <meta name="google-site-verification" content="jAFLY0kyGdoOUhdPaCNMPzMbDRwUIzqJ0sLby0N-dSo" />
 </head>
 
@@ -41,7 +42,7 @@
 
 
             <div class="contenedor-titulo">
-                <h1>Darwin Felipe Uzcategui Gonzalez</h1>
+                <h1>Darwin Felipe Uzcátegui González</h1>
                 <h2>Programador & Desarrollador Movil</h2>
                 <a href="#mis-trabajos">VER MI TRABAJO</a>
 
@@ -60,12 +61,12 @@
                         <img src="imagenes/curso.jpg">
                     </div>
                     <div class="texto">
-                        <p>Mi nombre es Darwin Felipe Uzcategui Gonzalez y soy programados de sistemas de escritorio. Tengo la experiencia en desarrollo de sistemas de facturacion fiscal para pequeñas y medianas empresas, hasta sistemas Administrativo.
+                        <p>Mi nombre es Darwin Felipe Uzcátegui González y soy programados de sistemas de escritorio. Tengo la experiencia en desarrollo de sistemas de facturacion fiscal para pequeñas y medianas empresas, hasta sistemas Administrativo.
                         </p>
                         <p>Me aseguro de utilizar siempre las últimas tecnologías de desarrollo aplicaciones Escritorio, mobil y web. Si necesitás un sistemas de facturacion fiscal, administrativo o una página web moderna, funcional, que se adapte a todos
                             los diferentes tipos de pantalla, te aseguro que llegaste al lugar correcto.
                         </p>
-                        <p>Pudes ponerte en contacto conmigo a través de Facebook, Linkedin, Instragram, por mi telefono 0414 921 3235 o completando el formulario de contacto que se encuentra al final de mi sitio web.
+                        <p>Para establecer contacto, tienes varias opciones: puedes encontrarme en Facebook, Linkedin e Instagram, llamarme al número 0414 921 3235, o simplemente completar el formulario de contacto ubicado al final de mi sitio web. Estoy aquí para responder tus preguntas y atender tus necesidades.
                         </p>
                         <a href="">VER MI TRABAJO</a>
 
@@ -268,7 +269,7 @@
                 <a target="_blank" href="https://ve.linkedin.com/in/darwin-felipe-uzc%C3%A1tegui-gonz%C3%A1lez-08a46310a"><img src="imagenes/linkedin64.png" alt="imagen de linkedin"></a>
             </div>
             <div class="parrafo">
-                <p>© 2019 Darwin Uzcategui | Programador de Sistemas Fiscales. Todos los derechos reservados</p>
+                <p>© 2019 Darwin Felipe Uzcátegui González | Programador de Sistemas Fiscales. Todos los derechos reservados</p>
             </div>
         </div>
     </footer>
