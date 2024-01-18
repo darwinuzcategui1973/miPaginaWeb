@@ -68,7 +68,7 @@
                         </p>
                         <p>Para establecer contacto, tienes varias opciones: puedes encontrarme en Facebook, Linkedin e Instagram, llamarme al número 0414 921 3235, o simplemente completar el formulario de contacto ubicado al final de mi sitio web. Estoy aquí para responder tus preguntas y atender tus necesidades.
                         </p>
-                        <a href="">VER MI TRABAJO</a>
+                        <a href="https://astounding-dusk-ca43e7.netlify.app/">VER MI PORTAFOLIO</a>
 
 
                     </div>
@@ -202,9 +202,9 @@
                             <div class="publicacion">
                                 <img src="imagenes/blog1.jpg" alt="">
                                 <div class="contenido">
-                                    <h4>No alcanza con tener solamente una página web</h4>
-                                    <p>¿Querés aprender cuales son las herramientas que usan las mejores marcas para generar tráfico?</p>
-                                    <a href="">Leer mas ➝</a>
+                                    <h4>¿Qué es GPT y cómo funciona?</h4>
+                                    <p>ChatGPT es una aplicación de chatbot de inteligencia artificial desarrollado en 2022 por OpenAI que se especializa en el diálogo. El chatbot es un modelo de lenguaje ajustado con técnicas de aprendizaje tanto supervisadas como de refuerzo.​ </p>
+                                    <a href="https://chat.openai.com/">Leer mas ➝</a>
                                 </div>
                             </div>
                             <div class="publicacion">
@@ -212,7 +212,7 @@
                                 <div class="contenido">
                                     <h4>¿Qué es el remarketing y como utilizarlo?</h4>
                                     <p>El remarketing es una de las técnicas mas utlizadas por las mejores companías! ¿Querés saber de que se trata?</p>
-                                    <a href="">Leer mas ➝</a>
+                                    <a href="https://www.tiendanube.com/blog/remarketing/">Leer mas ➝</a>
                                 </div>
                             </div>
                         </div>
