@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Pagina web Darwin Uzcategui</title>
-    <link rel="stylesheet" href="/estilo/estilo.css">
+    <link rel="stylesheet" href="estilo/estilo.css">
     <!-- El link externo de mi fuente -->
     <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
     <!-- para colocar carulese -->
